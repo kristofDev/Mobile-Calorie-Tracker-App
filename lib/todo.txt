@@ -1,0 +1,3 @@
+TODO LIST:
+    * Make like a loading bar on the homescreen that helps you graphicly with tracking daily calories
+    * At the end of the day save daily intake
